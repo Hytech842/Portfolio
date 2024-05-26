@@ -1,0 +1,24 @@
+body{
+    padding-top: 70px;
+    background-color: black;
+    color: white;
+}
+.nodejs{
+    color: rgb(120, 183, 68);
+}
+.profile{
+    width: 400px;
+
+}
+.about{
+    width: 800px;
+}
+.skills, .tools{
+    img{
+        width: 80px;
+        margin: 20px;
+    }
+}
+.skill-list{
+    display: flex;
+}
